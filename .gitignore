@@ -1,0 +1,28 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore large/binary and personal docs
+*.pdf
+*.doc
+*.docx
+*.zip
+*.jpg
+*.jpeg
+*.png
+
+# Notebooks (keep app.py as main entrypoint)
+*.ipynb
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env / secrets
+.env
+*.sqlite3
