@@ -3,6 +3,10 @@
 StockEdge Pro is an interactive Streamlit app for **stock analysis and portfolio optimization**.  
 It combines technical analysis, machine learning models, and modern visualizations in a single dashboard.
 
+# Deployment Link
+
+https://stockpred-w.streamlit.app/
+
 ##  Features
 
 ### 1.  Breakout Strategy
