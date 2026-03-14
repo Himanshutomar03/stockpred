@@ -24,7 +24,7 @@ https://stockpred-w.streamlit.app/
   - Maximizes Sharpe ratio.
   - Shows optimal weights, discrete allocation (shares to buy), and remaining cash.
 - Multiple plots:
-  - Allocation pie chart
+  - Allocation pie chart\
   - Efficient frontier with optimal point
   - Historical portfolio performance
   - Weight distribution bar chart.
